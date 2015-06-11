@@ -15,6 +15,7 @@
 		04B6A0FB1B296A6C00E64C40 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B6A0FA1B296A6C00E64C40 /* Images.xcassets */; };
 		04B6A0FE1B296A6C00E64C40 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04B6A0FC1B296A6C00E64C40 /* LaunchScreen.xib */; };
 		04B6A10A1B296A6D00E64C40 /* Flappy_birdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B6A1091B296A6D00E64C40 /* Flappy_birdTests.swift */; };
+		04B6A1141B296D5C00E64C40 /* img in Resources */ = {isa = PBXBuildFile; fileRef = 04B6A1131B296D5C00E64C40 /* img */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		04B6A1031B296A6D00E64C40 /* Flappy birdTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flappy birdTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B6A1081B296A6D00E64C40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04B6A1091B296A6D00E64C40 /* Flappy_birdTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flappy_birdTests.swift; sourceTree = "<group>"; };
+		04B6A1131B296D5C00E64C40 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				04B6A0F11B296A6C00E64C40 /* GameScene.sks */,
 				04B6A0F31B296A6C00E64C40 /* GameScene.swift */,
 				04B6A0F51B296A6C00E64C40 /* GameViewController.swift */,
+				04B6A1131B296D5C00E64C40 /* img */,
 				04B6A0F71B296A6C00E64C40 /* Main.storyboard */,
 				04B6A0FA1B296A6C00E64C40 /* Images.xcassets */,
 				04B6A0FC1B296A6C00E64C40 /* LaunchScreen.xib */,
@@ -198,6 +201,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B6A1141B296D5C00E64C40 /* img in Resources */,
 				04B6A0FE1B296A6C00E64C40 /* LaunchScreen.xib in Resources */,
 				04B6A0FB1B296A6C00E64C40 /* Images.xcassets in Resources */,
 				04B6A0F21B296A6C00E64C40 /* GameScene.sks in Resources */,
