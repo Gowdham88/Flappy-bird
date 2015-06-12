@@ -421,6 +421,7 @@
 				04B6A10F1B296A6D00E64C40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04B6A1101B296A6D00E64C40 /* Build configuration list for PBXNativeTarget "Flappy birdTests" */ = {
 			isa = XCConfigurationList;
@@ -429,6 +430,7 @@
 				04B6A1121B296A6D00E64C40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
